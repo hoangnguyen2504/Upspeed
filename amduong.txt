@@ -1,0 +1,5 @@
+- memset(dp,-0x3f,sizeof(dp));
+
+
+
++ memset(dp,0x3f,sizeof(dp));
